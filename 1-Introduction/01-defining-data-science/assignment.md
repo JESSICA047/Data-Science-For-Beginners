@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+|Education | Personalize learning | Student test scores, attendance records, learning style preferences, and interests | Cloud-based database | Identify students who are struggling and provide them with additional support. Recommend learning materials and activities that are tailored to each student's individual needs.|
+|Vaccination| Track vaccination rates | Vaccination records, demographic data, and health records|Centralized database |Identify areas with low vaccination rates and target them for outreach efforts. Monitor the effectiveness of vaccination programs and make adjustments as needed.|
+| Productivity |Identify time-wasters | Work logs, email records, website browsing history, | Personal productivity app | Identify tasks that are taking up the most time and find ways to streamline them. Automate repetitive tasks to free up time for more important work. |
 
 ## Rubric
 
